@@ -1,0 +1,150 @@
+@font-face{
+	font-family: "pt-sans";
+	src: url("../fonts/PT_Sans-Web-Regular.ttf");
+}
+body{
+	font-family: "pt-sans";
+}
+ul {
+	list-style-type: none;
+}
+.c1{
+	padding: 2.5rem 0;
+	background-image: url(../img/1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+}
+.c2{
+	padding: 2.5rem 0;
+	background-image: url(../img/2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+}
+.c3{
+	padding: 2.5rem 0;
+	background-image: url(../img/3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+}
+.c4{
+	padding: 2.5rem 0;
+	background-image: url(../img/4.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+}
+.um{
+	padding: 10rem 0;
+	background-image: url(../img/1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+	z-index: 1;
+}
+.um2{
+	padding: 10rem 0;
+	background-image: url(../img/2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+	z-index: 1;
+}
+.um3{
+	padding: 10rem 0;
+	background-image: url(../img/3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+	z-index: 1;
+}
+.um4{
+	padding: 10rem 0;
+	background-image: url(../img/4.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+	z-index: 1;
+}
+.dois{
+	padding: 5rem 0;
+	background-image: url(../img/madeira.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	right: 15rem
+}
+.tres{
+	background-image: url(../img/japa.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+	padding: 10rem;
+}
+.quatro{
+	background-image: url(../img/tijolo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	background-position: center;
+	padding: 10rem;
+}
+.overlay{
+	background-color: rgba(0, 0, 0, .4);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+.cabecalho1{
+	padding-right: 7em
+}
+.cabecalho2{
+	padding-left: 5em;
+	padding-top: 2em;
+}
+.palavra{
+	color: black;
+	font-size: 1.5em;
+	font-weight: 800;
+}
+#footer{
+	background-color: #500;
+	background-image: url(../img/footer.jpg);
+}	 	
+.text-fixed{
+	background-color: rgba(0, 0, 0, .7);
+}
+.hover a:hover{
+	color: black;
+}
+.hover  h3:hover{
+	color: #B8860B;
+}
+.hover a{
+	font-size: 25px;
+	color: black;
+	font-weight: 400;/* espessura da fonte */
+	text-decoration: none; /* tirando sublinhado de link */
+	text-transform: none; /* deixando fonte padrão */
+
+}
+.bkg-grad{
+	background-image: linear-gradient(to bottom, #000, #8B4726);
+	position: relative;
+	bottom: 14.09rem;
+}
+#galeria{
+	margin-top: 11rem;
+}
