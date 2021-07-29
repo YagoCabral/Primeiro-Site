@@ -1,4 +1,4 @@
-# Projeto Inicial de Site de Tatuagem :art:
+# Projeto Inicial do Site de Tatuagem :art:
 
 
 
